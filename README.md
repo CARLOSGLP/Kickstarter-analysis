@@ -5,6 +5,7 @@
 ![Theater_Outcomes_vs_goals](https://user-images.githubusercontent.com/95062304/161860947-073b37be-be2a-45d0-8e4c-63147c7a60f2.png)
 
 ###Written Analysis of the Results
+
 *Overview of Project: Explain the purpose of this analysis
 >This analysis aims to find out, if there is any relationship between date of launch, number of sponsors, amount collected and expectations by each show. Seeking to be able to make a more specific classification of the data obtained, create a database that facilitate information in a more friendly and specific way (like categories,
 subcategories and regions) that provides support in making decisions to launch future shows, in terms of date and investment amounts, as well as, more accurate and achievable fundraising predictions and goal setting.
@@ -18,6 +19,7 @@ subcategories and regions) that provides support in making decisions to launch f
 ---![DATE_CREATED_CONVERSION](https://user-images.githubusercontent.com/95062304/161855804-7bcddd3f-3882-40a1-9a10-e91453fea5ce.png)
 
 *Results:
+
 >What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 ---the most succesful shows were launched in may and june
 ---the most failed months were jule and october
