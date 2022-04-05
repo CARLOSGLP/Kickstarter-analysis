@@ -1,4 +1,5 @@
 #Kickstarter-analysis
+
 ##Analysing Kickstarter data to know the tendency
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95062304/161860838-3773d460-94d1-4d70-b893-79e226796aa8.png)
 ![Theater_Outcomes_vs_goals](https://user-images.githubusercontent.com/95062304/161860947-073b37be-be2a-45d0-8e4c-63147c7a60f2.png)
